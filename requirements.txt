@@ -1,0 +1,13 @@
+ctransformers==0.2.5
+sentence-transformers==2.2.2
+pinecone-client
+langchain
+flask
+pypdf
+langchain_pinecone
+python-dotenv
+streamlit
+torch
+nvidia-cudnn-cu12
+accelerate
+-e .
